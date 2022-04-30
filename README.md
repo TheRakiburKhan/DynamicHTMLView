@@ -20,4 +20,4 @@ This package is licensed under MIT License. See the [LICENSE](LICENSE.md) file.
 
 ## Author
 
-Rakibur Khan, contact me via [email](mailto:therakiburkhan@gmail.com) or vitit my [website](http://therakiburkhan.me)
+Rakibur Khan, contact me via [email](mailto:therakiburkhan@gmail.com) or visit my [website](http://therakiburkhan.me)
