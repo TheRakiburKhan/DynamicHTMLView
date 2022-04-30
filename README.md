@@ -1,6 +1,6 @@
 # DynamicHTMLView 
 [![Swift Package Manager](https://img.shields.io/badge/SPM-%20-red)](https://img.shields.io/badge/SPM-%20-red) [![Swift Version](https://img.shields.io/badge/Swift-5-red)](https://img.shields.io/badge/Swift-5-red) [![iOS Version](https://img.shields.io/badge/iOS-13-blue)](https://img.shields.io/badge/iOS-13-blue)
-s
+
 # Requirements
 
 This package can be pulled and used any project from iOS 10 or above.
