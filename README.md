@@ -16,7 +16,7 @@ it, simply follow the steps:
 
 ## LICENSE
 
-This package is licensed under MIT License. See the [LICENSE](LICENSE) file.
+This package is licensed under MIT License. See the [LICENSE](LICENSE.md) file.
 
 ## Author
 
